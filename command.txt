@@ -1,0 +1,2 @@
+#This is the command to search 5 strings before and 5 after in the same line
+grep -o "......stringtosearch....." filname
